@@ -36,6 +36,21 @@ nav {
   margin-top: 10px;
 }
 
+.resume-container a{
+  border: 1px solid #2b2b2b;
+  border-radius: 10px;
+  color: #2b2b2b;
+  padding: 10px 40px;
+  transition: all ease-in-out 400ms;
+}
+
+.resume-container a:hover{
+  background: rgb(71,211,211);
+  color: white;
+  border: none;
+  transition: all ease-in-out 400ms;
+}
+
 .scroll{
   background: #2b2b2b;
   transition: all ease-in-out 400ms;
