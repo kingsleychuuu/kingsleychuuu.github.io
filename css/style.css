@@ -117,12 +117,12 @@ header{
 
 .pimg0{
   background-image: url('../img/img0.jpg');
-  min-height: 100%;
+  min-height: 90%;
 }
 
 .pimg1{
   background-image: url('../img/img1.jpg');
-  min-height: 100%;
+  min-height: 90%;
 }
 
 .pimg2{
@@ -137,7 +137,7 @@ header{
 
 .pimg4{
   background-image: url('../img/img4.jpg');
-  min-height: 100%;
+  min-height: 90%;
 }
 
 .pimg0, .pimg1, .pimg2, .pimg3, .pimg4{
